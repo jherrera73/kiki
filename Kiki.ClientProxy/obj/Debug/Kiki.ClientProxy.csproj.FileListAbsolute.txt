@@ -1,0 +1,7 @@
+C:\Kiki\Kiki.ClientProxy\bin\Debug\Kiki.ClientProxy.dll
+C:\Kiki\Kiki.ClientProxy\bin\Debug\Kiki.ClientProxy.pdb
+C:\Kiki\Kiki.ClientProxy\bin\Debug\Kiki.ServiceModel.dll
+C:\Kiki\Kiki.ClientProxy\bin\Debug\Kiki.ServiceModel.pdb
+C:\Kiki\Kiki.ClientProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Kiki\Kiki.ClientProxy\obj\Debug\Kiki.ClientProxy.dll
+C:\Kiki\Kiki.ClientProxy\obj\Debug\Kiki.ClientProxy.pdb

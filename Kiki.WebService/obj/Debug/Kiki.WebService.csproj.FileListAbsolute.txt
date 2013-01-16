@@ -1,0 +1,9 @@
+C:\Kiki\Kiki.WebService\bin\Kiki.WebService.dll
+C:\Kiki\Kiki.WebService\bin\Kiki.WebService.pdb
+C:\Kiki\Kiki.WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Kiki\Kiki.WebService\obj\Debug\Kiki.WebService.dll
+C:\Kiki\Kiki.WebService\obj\Debug\Kiki.WebService.pdb
+C:\Kiki\Kiki.WebService\bin\Kiki.ServiceModel.dll
+C:\Kiki\Kiki.WebService\bin\Kiki.ServiceModel.pdb
+C:\Kiki\Kiki.WebService\bin\Kiki.Service.dll
+C:\Kiki\Kiki.WebService\bin\Kiki.Service.pdb

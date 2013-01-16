@@ -1,0 +1,7 @@
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.Service.dll
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.Service.pdb
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.ServiceModel.dll
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.ServiceModel.pdb
+C:\Kiki\Kiki.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Kiki\Kiki.Service\obj\Debug\Kiki.Service.dll
+C:\Kiki\Kiki.Service\obj\Debug\Kiki.Service.pdb
