@@ -7,3 +7,15 @@ C:\Kiki\Kiki.WebService\bin\Kiki.ServiceModel.dll
 C:\Kiki\Kiki.WebService\bin\Kiki.ServiceModel.pdb
 C:\Kiki\Kiki.WebService\bin\Kiki.Service.dll
 C:\Kiki\Kiki.WebService\bin\Kiki.Service.pdb
+C:\Kiki\Kiki.WebService\bin\Kiki.Infrastructure.dll
+C:\Kiki\Kiki.WebService\bin\EntityFramework.dll
+C:\Kiki\Kiki.WebService\bin\Kiki.Infrastructure.pdb
+C:\Kiki\Kiki.WebService\bin\EntityFramework.xml
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.Unity.dll
+C:\Kiki\Kiki.WebService\bin\Unity.Wcf.dll
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.Unity.xml
+C:\Kiki\Kiki.WebService\bin\Microsoft.Practices.Unity.Configuration.xml

@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,6 +47,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Kiki.Infrastructure\Kiki.Infrastructure.csproj">
+      <Project>{44472C5C-C727-461E-A030-96BFE67B7817}</Project>
+      <Name>Kiki.Infrastructure</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Kiki.ServiceModel\Kiki.ServiceModel.csproj">
       <Project>{D30CB56D-F77C-4429-BFB7-88D96D8F6B81}</Project>
       <Name>Kiki.ServiceModel</Name>

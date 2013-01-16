@@ -5,3 +5,7 @@ C:\Kiki\Kiki.Service\bin\Debug\Kiki.ServiceModel.pdb
 C:\Kiki\Kiki.Service\obj\Debug\ResolveAssemblyReference.cache
 C:\Kiki\Kiki.Service\obj\Debug\Kiki.Service.dll
 C:\Kiki\Kiki.Service\obj\Debug\Kiki.Service.pdb
+C:\Kiki\Kiki.Service\bin\Debug\EntityFramework.dll
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.Infrastructure.dll
+C:\Kiki\Kiki.Service\bin\Debug\Kiki.Infrastructure.pdb
+C:\Kiki\Kiki.Service\bin\Debug\EntityFramework.xml

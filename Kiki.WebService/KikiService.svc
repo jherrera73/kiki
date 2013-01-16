@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="Kiki.Service.KikiService" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Kiki.Service.KikiService" Factory="Kiki.WebService.WcfServiceFactory" %>
